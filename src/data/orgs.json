@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Institute of Computer Engineers of the Philippines.SE JRU Ch.",
+      "acronym": "ICPEP.SE ",
+      "logo": "orgs/icpep.png",
+      "description": "",
+      "tags": ["Computer Engineering", "I.T Students", "Open to all years"],
+      "registrationLink": "https://forms.gle/exampleform1"
+    },
+    {
+      "id": 2,
+      "name": "Junior Philippine Computer Society JRU Ch.",
+      "acronym": "JPCS",
+      "logo": "orgs/jpcs.png",
+      "description": "",
+      "tags": ["Legal Management", "3rd and 4th year only"],
+      "registrationLink": "https://forms.gle/exampleform2"
+    },
+    {
+      "id": 3,
+      "name": "Electronics Engineering League",
+      "acronym": "ECEL",
+      "logo": "eco-warriors-logo.png",
+      "description": "Dedicated to promoting sustainability and environmental awareness.",
+      "tags": ["Open to all departments", "First and Second Year"],
+      "registrationLink": "https://forms.gle/exampleform3"
+    },
+    {
+        "id": 4,
+        "name": "Eco Warriors",
+        "acronym": "",
+        "logo": "eco-warriors-logo.png",
+        "description": "Dedicated to promoting sustainability and environmental awareness.",
+        "tags": ["Open to all departments", "First and Second Year"],
+        "registrationLink": "https://forms.gle/exampleform3"
+    },
+    {
+        "id": 5,
+        "name": "Eco Warriors",
+        "acronym": "",
+        "logo": "eco-warriors-logo.png",
+        "description": "Dedicated to promoting sustainability and environmental awareness.",
+        "tags": ["Open to all departments", "First and Second Year"],
+        "registrationLink": "https://forms.gle/exampleform3"
+    },
+    {
+        "id": 6,
+        "name": "Eco Warriors",
+        "acronym": "",
+        "logo": "eco-warriors-logo.png",
+        "description": "Dedicated to promoting sustainability and environmental awareness.",
+        "tags": ["Open to all departments", "First and Second Year"],
+        "registrationLink": "https://forms.gle/exampleform3"
+    },
+    {
+        "id": 7,
+        "name": "Eco Warriors",
+        "acronym": "",
+        "logo": "eco-warriors-logo.png",
+        "description": "Dedicated to promoting sustainability and environmental awareness.",
+        "tags": ["Open to all departments", "First and Second Year"],
+        "registrationLink": "https://forms.gle/exampleform3"
+    }
+  ]
+  
